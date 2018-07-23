@@ -1,7 +1,7 @@
-Webpack meets React - prelude to Todo app
+Webpack meets React - the to Todo app
 ====================
 
-Just your average Webpack testing ground
+Webpack testing ground ver. 2.0
 
 Basic background
 ---------------------
